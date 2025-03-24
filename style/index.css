@@ -84,7 +84,7 @@ img {
 @media (max-width: 640px) {
   .container-frase {
     flex-direction: column-reverse;
-    transform: translateX(-50%) translateY(20%);
+    transform: translateX(-50%) translateY(50%);
     gap: 1rem;
     top: unset;
     bottom: 50%;
